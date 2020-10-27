@@ -189,7 +189,7 @@ request.setAttribute("path", basePath);
                 </a>
               </li>
               <li class="nav-item">
-                <a href="<c:url value='/AdminLTE-3.0.5/addExample.jsp' />" class="nav-link">
+                <a href="<c:url value='/AdminLTE-3.0.5/admin.campgroundadd.jsp' />" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>添加營地</p>
                 </a>
